@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Metadatos, tesauros y contenido</title>
+  <desc id="desc">Imagen de portada del artículo Metadatos, tesauros y contenido</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#5a1a44"/>
+      <stop offset="1" stop-color="#ce4d8f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1080" cy="560" r="260" fill="#ffffff" opacity="0.07"/>
+  <circle cx="120" cy="60" r="160" fill="#ffffff" opacity="0.05"/>
+  <g fill="none" stroke="#ce4d8f" stroke-width="2" opacity="0.55"><rect x="830" y="120" width="240" height="150" rx="12"/><rect x="880" y="185" width="240" height="150" rx="12"/><rect x="930" y="250" width="240" height="150" rx="12"/><path d="M950 300 h200 M950 330 h160"/></g>
+  <text x="90" y="120" fill="#ffe4ef" opacity="0.85" font-family="Georgia, serif" font-size="22" letter-spacing="5">PINK BLOG · ARQUITECTURA DE LA INFORMACIÓN</text>
+  <text x="90" y="300" fill="#ffffff" font-family="Georgia, serif" font-size="70" font-weight="bold"><tspan x="90" dy="0">Metadatos,</tspan><tspan x="90" dy="78">tesauros y</tspan><tspan x="90" dy="78">contenido</tspan></text>
+  <rect x="90" y="540" width="120" height="6" rx="3" fill="#ffffff" opacity="0.6"/>
+</svg>
